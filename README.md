@@ -2,7 +2,7 @@
 
 - 💼 I'm currently working at **[Technology Reply](https://www.reply.com/technology-reply/en/)** as Full-Stack Developer.
 - 🧠 I love working as Front-End developer, especially using **React** ⚛️ and **[MERN](https://www.mongodb.com/mern-stack)** stack.
-- 📚 I am **Java SE 11 Developer** and **MongoDB Associate Developer** certificated
+- 📚 I am **Java SE 11 Developer** and **MongoDB Associate Developer** certified
 - ❤️ I love Web and Mobile Development worlds.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alex-dametto-368b7919b/) 🔗**
 
