@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Alex, a Full-Stack developer based in Padua (PD).
+### Hi there 👋 I'm Alex, a Front-End developer based near Padua (PD).
 
-- 💼 I'm currently working at **[Technology Reply](https://www.reply.com/technology-reply/en/)** as Full-Stack Developer.
-- 🧠 I love working as Front-End developer, especially using **React** ⚛️ and **[MERN](https://www.mongodb.com/mern-stack)** stack.
+- 💼 I'm currently working at **[CrateDB](https://cratedb.com/)** as Front-End Developer.
+- 🧠 I love working with **React** ⚛️ and **[MERN](https://www.mongodb.com/mern-stack)** stack.
 - 📚 I am **Java SE 11 Developer** and **MongoDB Associate Developer** certified
 - ❤️ I love Web and Mobile Development worlds.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alex-dametto-368b7919b/) 🔗**
