@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alex, a Software Engineer based near Padua (PD).
+### Hi there 👋 I'm Alex, a Software Engineer based near Asolo (TV).
 
 - 💼 I'm currently working at **[Sibill](https://sibill.com/)** as a Software Engineer.
 - 🧠 I love working with **React** ⚛️ and **[MERN](https://www.mongodb.com/mern-stack)** stack.
